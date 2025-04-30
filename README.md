@@ -1,16 +1,65 @@
 ## Hi there 👋
+# 👋 Hi, I'm Ammar Ahmad Abu Ghaith
 
-<!--
-**i3Ammar/i3Ammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Computer Science Student | Backend Developer | AI & Data Science Enthusiast`**
 
-Here are some ideas to get you started:
+📍 Amman, Jordan  
+📞 +(962) 775836969  
+📧 [Email](mailto:AmmarAAbughaith@hotmail.com)  
+💼 [LinkedIn](http://www.linkedin.com/in/ammar-abu-ghaith)  
+🐙 [GitHub](https://github.com/i3Ammar)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Profile  
+A motivated **Computer Science student** at Jordan University of Science & Technology (GPA: 3.65/4) with a passion for solving problems through code. Eager to leverage skills in **Backend Development, AI, and Data Science** to build impactful solutions. Strong foundation in Python, JavaScript, and modern frameworks like Django. Excellent communicator and quick learner, ready to contribute to innovative projects.
+
+---
+
+### 🛠️ Technical Skills  
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-FF1709?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Tools & Databases**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C7B93?style=flat&logo=python&logoColor=white)
+
+**Interests**  
+🔍 Machine Learning | 📊 Data Visualization | ☁️ Cloud Computing
+
+---
+
+### 📚 Education  
+**Jordan University of Science & Technology**  
+*Bachelor’s Degree in Computer Science*  
+`Oct 2021 - Jun 2025 (Expected)` | GPA: 3.65/4.0  
+
+---
+
+### 📜 Certifications  
+- **Introduction to Python** (Udacity)  
+- **Mastering Critical Skills in C++17 & Algorithms** (Udemy)  
+- **Django Development with SQL & Databases** (IBM)  
+- **Advanced Django** (Coursera - Codio)  
+- **AWS Cloud Practitioner Essentials** (AWS)  
+
+---
+
+### 🌟 Soft Skills  
+- Problem Solving & Critical Thinking  
+- Effective Communication  
+- Team Collaboration  
+- Adaptability & Decision-Making  
+
+---
+
+### 📬 Let’s Connect!  
+Open to internships, collaborations, and opportunities in **Backend Development, AI, or Data Science**. Feel free to reach out via [email](mailto:AmmarAAbughaith@hotmail.com) or connect on [LinkedIn](http://www.linkedin.com/in/ammar-abu-ghaith)!
