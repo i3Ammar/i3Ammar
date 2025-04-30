@@ -12,6 +12,7 @@
 
 ### 🚀 Profile  
 A motivated **Computer Science student** at Jordan University of Science & Technology (GPA: 3.65/4) with a passion for solving problems through code. Eager to leverage skills in **Backend Development, AI, and Data Science** to build impactful solutions. Strong foundation in Python, JavaScript, and modern frameworks like Django. Excellent communicator and quick learner, ready to contribute to innovative projects.
+
 ---
 
 ### 📚 Education  
