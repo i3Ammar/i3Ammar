@@ -34,12 +34,17 @@ A motivated **Computer Science student** at Jordan University of Science & Techn
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+
 **Tools & Databases**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C7B93?style=flat&logo=python&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-Error_Tracking-FB4226?style=flat-square&logo=sentry&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-Object_Storage-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-Deployment-430098?style=flat-square&logo=heroku&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-Task_Queue-37814A?style=flat-square&logo=celery&logoColor=white)
 
 **Interests**  
 🔍 Machine Learning | 📊 Data Visualization | ☁️ BackEnd
