@@ -33,7 +33,7 @@ A motivated **Computer Science student** at Jordan University of Science & Techn
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C7B93?style=flat&logo=python&logoColor=white)
 
 **Interests**  
-🔍 Machine Learning | 📊 Data Visualization | ☁️ Cloud Computing
+🔍 Machine Learning | 📊 Data Visualization | ☁️ BackEnd
 
 ---
 
