@@ -4,7 +4,7 @@
 **`Computer Science Student | Backend Developer | AI & Data Science Enthusiast`**
 
 📍 Amman, Jordan  
-📧 [Email](mailto:AmmarAAbughaith@hotmail.com)  
+📧 [Email](mailto:ammarhmad2@gmail.com)  
 💼 [LinkedIn](http://www.linkedin.com/in/ammar-abu-ghaith)  
 🐙 [GitHub](https://github.com/i3Ammar)  
 
